@@ -29,7 +29,7 @@ Features & Functionality
   Game resets after a winner is declared
 
 Results / Screenshots
-Add a screenshot
+![Game Screenshot](Screencapture for readme file.png")
 
 Observations & What I Learned
   Practiced if/else logic and condition comparison
