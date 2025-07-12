@@ -36,7 +36,7 @@ Play the game using the on-screen buttons!
 
 ## Results / Screenshots
 
-![Game Screenshot](screencaptureForReadMe.png")
+![Game Screenshot](screencaptureForReadMe.png)
 
 ## Observations & What I Learned
 
