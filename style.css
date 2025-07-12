@@ -1,0 +1,39 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #eaf6ff;
+  color: #333;
+  text-align: center;
+  padding: 2em;
+}
+
+h1 {
+  font-size: 2.5em;
+  color: #444;
+  margin-bottom: 1em;
+}
+
+button {
+  font-size: 1.2em;
+  padding: 0.5em 1em;
+  margin: 0.5em;
+  border: 2px solid;
+  background-color: #d0f0fd;
+  border-color: #4ba3c7;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  border-radius: 8px;
+}
+
+button:hover {
+  background-color: #b2e8fc;
+}
+
+#result {
+  margin-top: 2em;
+  font-size: 1.25em;
+}
+
+#score {
+  font-weight: bold;
+  margin-top: 1em;
+}
