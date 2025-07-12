@@ -1,7 +1,5 @@
 ## Rock Paper Scissors mini-game
-
 ---
-
 ## Objective / Purpose
 
 This project is a browser-based mini-game of Rock, Paper, Scissors.  
@@ -38,7 +36,7 @@ Play the game using the on-screen buttons!
 
 ## Results / Screenshots
 
-![Game Screenshot](Screencapture for readme file.png")
+![Game Screenshot](screencaptureForReadMe.png")
 
 ## Observations & What I Learned
 
